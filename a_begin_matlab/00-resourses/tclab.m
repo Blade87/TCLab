@@ -8,7 +8,7 @@ classdef tclab
    methods
       function obj = tclab(com)
          % connect to Arduino
-         board = 'Leonardo';
+         board = 'Uno';
          try
              % Install Arduino support with "pkg install -forge arduino"
              % See https://wiki.octave.org/Arduino_package

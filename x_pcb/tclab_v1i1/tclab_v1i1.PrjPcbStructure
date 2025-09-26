@@ -1,3 +1,6 @@
 Record=TopLevelDocument|FileName=A1_pmu.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=A1_pmu.SchDoc|FileName=A2_shield.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=A1_pmu.SchDoc|FileName=A3_plants.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=A1_pmu.SchDoc|FileName=A4_esp32.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=A1_pmu.SchDoc|FileName=A5_sub_interface.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=A1_pmu.SchDoc|FileName=A6_fan_indicator.SchDoc|SheetNumber=6

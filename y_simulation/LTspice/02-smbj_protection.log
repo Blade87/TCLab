@@ -1,0 +1,11 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\s\Documents\GitHub\TCLab\y_simulation\LTspice\02-smbj_protection.asc
+Start Time: Sat Sep 27 14:41:08 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+
+Total elapsed time: 0.117 seconds.
+
